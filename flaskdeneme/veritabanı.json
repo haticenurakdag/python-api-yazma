@@ -1,0 +1,27 @@
+{
+    "Rehberim": [
+       {
+          "ID": "1",
+          "Adi": "Fatih",
+          "Soyadi": "Alkan",
+          "Telefon": "+905547740000",
+          "Email": "burakdalgic@gmail.com"
+       },
+       {
+          "ID": "2",
+          "Adi": "Burak",
+          "Soyadi": "Alkan",
+          "Telefon": "+905326550000",
+          "Email": "burakdalgic@gmail.com"
+       },
+       {
+          "ID": "3",
+          "Adi": "Canan",
+          "Soyadi": "Alkan",
+          "Telefon": "+905337770000",
+          "Email": "canandalgic@gmail.com"
+       }
+    ]
+ }
+ 
+ 
