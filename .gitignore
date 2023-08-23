@@ -1,0 +1,6 @@
+.vscode/
+venv/
+virtualenv/
+_pycache_/
+.mypy_cache/
+
