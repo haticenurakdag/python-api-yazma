@@ -6,8 +6,8 @@ NASIL ÇALIŞIR?
 1) -projeyi bilgisayarınıza kopyalayın 
 -git clone https://github.com/kullanici_adi/my-flask-app.git
 2) -cd my-flask-app (projenin içine girin)
-3) -gerekli bağımlılıkları yükleyin (pyproject.toml dosyasında yüklenecek paketler yer alıyor ordan bakabilirsiniz)
--"tool.poetry.dependencies" kısmında ki bağımlılıkları terminalde poetry install diyerek yükleyebilirsiniz
+3) -gerekli bağımlılıkları yükleyin (requirements.txt dosyasında yüklenecek paketler yer alıyor ordan bakabilirsiniz)
+-pip install -r requirements.txt ile yükleyebilirsiniz
 4) python app.py ile uygulamayı başlatın
 
 - `GET /` : Ana sayfa, yapılacaklar listesini görüntüler
